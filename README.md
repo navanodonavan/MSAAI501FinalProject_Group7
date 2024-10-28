@@ -1,2 +1,52 @@
-# MSAAI501FinalProject_Group7
-Group 7 MS AAI 501 Final Project
+# Project Title TBD
+
+This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
+
+**-- Project Status: [In Progress]**
+
+**Installation**
+
+Launch Jupyter notebook and open the ipynb file from this repository.
+  
+**Project Intro/Objective**
+
+TBD
+
+
+
+**Partner(s)/Contributor(s)**
+
+•	Donavan Trigg
+
+•	Dean Simmer
+
+•	Payal Patel
+
+**Methods Used**
+
+•	Inferential Statistics
+
+•	Machine Learning
+
+•	Data Visualization
+
+•	Data Manipulation
+
+**Technologies**
+
+•	Python
+
+•	Jupyter Notebook
+
+
+**Project Description**
+
+TBD
+
+**License**
+
+N/A
+
+**Acknowledgments**
+
+N/A
