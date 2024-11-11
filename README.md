@@ -1,4 +1,4 @@
-# Project Title TBD
+# Project Title : Detecting Mental Distress In Speech Using Machine Learning 
 
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
@@ -7,6 +7,13 @@ This project is a part of the AAI-501 course in the Applied Artificial Intellige
 **Installation**
 
 Launch Jupyter notebook and open the ipynb file from this repository.
+Requires libraries to be installed including:
+    - librosa
+    - numpy
+    - pandas
+    - sklearn
+    - torch
+    - matplotlib
   
 **Project Intro/Objective**
 
@@ -18,7 +25,7 @@ TBD
 
 •	Donavan Trigg
 
-•	Dean Simmer
+•	Dean P. Simmer
 
 •	Payal Patel
 
