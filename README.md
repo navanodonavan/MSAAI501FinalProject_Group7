@@ -1,4 +1,4 @@
-# Project Title : Detecting Mental Distress In Speech Using Machine Learning 
+# Project Title : Predicting Anxiety, Stress, and Depression Through Speech Emotion Analysis Using CNN-LSTM Models
 
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
