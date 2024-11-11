@@ -8,6 +8,7 @@ This project is a part of the AAI-501 course in the Applied Artificial Intellige
 
 Launch Jupyter notebook and open the ipynb file from this repository.
 Requires libraries to be installed including:
+
     - librosa
     - numpy
     - pandas
