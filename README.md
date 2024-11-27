@@ -8,9 +8,9 @@ This project is a part of the AAI-501 course in the Applied Artificial Intellige
 
 Launch Jupyter notebook and open the G7_CNN_LSTM_HuBERT_MFCC_Augmented.ipynb file from this repository. The G7_CNN_LSTM_HuBERT_MFCC_Augmented.ipynb is the final version of the CNN-LSTM model including comparisons with the pre-trained HuBERT model from Meta.
 
-Requires libraries to be installed including:
+# Requires libraries to be installed including:
 
-# Import Libraries
+**Import Libraries**
 import math
 import os
 import librosa
@@ -29,7 +29,8 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from collections import Counter
 
-# For HuBERT Model
+**For HuBERT Model**
+
 Import the following:
 
 from transformers import Wav2Vec2Processor, HubertModel, Wav2Vec2Model
