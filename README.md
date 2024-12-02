@@ -1,4 +1,4 @@
-# Project Title : Predicting Emotion From Speech using CNN-LSTM model for an Speech Emotion Recognition (SER) System.
+# Project Title : Predicting Emotion From Speech using CNN-LSTM model for a Speech Emotion Recognition (SER) System.
 
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
