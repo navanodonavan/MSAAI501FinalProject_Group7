@@ -10,7 +10,6 @@ Launch Jupyter notebook and open the G7_CNN_LSTM_HuBERT_MFCC_Augmented.ipynb fil
 
 # Required libraries to be installed including:
 
-**Import Libraries**
 import math
 import os
 import librosa
