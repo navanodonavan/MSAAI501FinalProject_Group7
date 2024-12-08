@@ -1,16 +1,18 @@
-# Project Title : Predicting Emotion From Speech using CNN-LSTM model for a Speech Emotion Recognition (SER) System.
+# Project Title : Predicting Emotion from Speech Using CNN-LSTM Model for a Speech Emotion Recognition (SER) System.
 
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
-**-- Project Status: [Complete]**
+### Project Status: [Complete]
 
-**Installation**
+## Installation
+
+Download the [CREMA-D dataset](https://ieeexplore.ieee.org/document/6849440) from [Kaggle](https://www.kaggle.com/datasets/ejlok1/cremad), which is available under an [ODC Attribution license](https://opendatacommons.org/licenses/by/1-0/index.html).
 
 Launch Jupyter notebook and open the `G7_CNN_LSTM_HuBERT_MFCC_Augmented.ipynb` file from this repository. 
 
 The `G7_CNN_LSTM_HuBERT_MFCC_Augmented.ipynb` is the final version of the CNN-LSTM model including comparisons with the pre-trained HuBERT model from Meta.
 
-# Required libraries to be installed including:
+## Required libraries to be installed including:
 
     import math
     import os
@@ -32,23 +34,21 @@ The `G7_CNN_LSTM_HuBERT_MFCC_Augmented.ipynb` is the final version of the CNN-LS
 
 **For HuBERT Model**
 
-Import the following:
+Import the following (in addition to the above)
 
     from transformers import Wav2Vec2Processor, HubertModel, Wav2Vec2Model
     from transformers import Wav2Vec2FeatureExtractor
-    from sklearn.metrics import classification_report, confusion_matrix
-    import torch
     from torch.utils.data import DataLoader, TensorDataset, Dataset
     from sklearn.cluster import KMeans
     from sklearn.decomposition import PCA
 
-** Please note, in order to utilize CUDA, the proper pytorch CUDA version needs to be installed in your environment via pip or conda install.
+Please note, to utilize CUDA, the appropriate PyTorch CUDA version needs to be installed in your environment via pip or conda.
   
-**Project Intro/Objective**
+## Project Intro/Objective
 
 To classify 6 emotions from speech. The emotions are Anger, Sad, Neutral, Disgust, Fear, and Happy. 
 
-**Partner(s)/Contributor(s)**
+### Partner(s)/Contributor(s)
 
 •	Donavan Trigg
 
@@ -56,7 +56,8 @@ To classify 6 emotions from speech. The emotions are Anger, Sad, Neutral, Disgus
 
 •	Payal Patel
 
-**Methods Used**
+
+### Methods Used
 
 •	Classification
 
@@ -67,23 +68,15 @@ To classify 6 emotions from speech. The emotions are Anger, Sad, Neutral, Disgus
 •	Deep Learning
 
 
-**Technologies**
+### Technologies
 
 •	Python
 
 •	Jupyter Notebook
 
-•	pytorch
+•	PyTorch
 
 
-**Project Description**
+### Project Description
 
-Leveraing CNNs and LSTMS to train and classify emotions from speech. 
-
-**License**
-
-N/A
-
-**Acknowledgments**
-
-N/A
+Leveraging CNNs and LSTMS to train and classify emotions from speech. 
